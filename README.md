@@ -1,2 +1,2 @@
 # imagelightbox-using-javascropt
-https://soumyajit-web.github.io/imagelightbox-using-javascropt/
+https://soumyajit-webdev.github.io/imagelightbox-using-javascropt/
